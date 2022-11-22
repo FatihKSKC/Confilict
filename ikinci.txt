@@ -2,3 +2,4 @@ ikinci gun ilk deneme
 ikinci gun ikinci deneme
 ikinci gun ikinci KASIKCI BRANCH deneme
 ikinci gun MASTER BRANCH deneme
+ikinci gun KASIKCI BRANCH deneme
