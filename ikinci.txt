@@ -4,3 +4,5 @@ ikinci gun ikinci KASIKCI BRANCH deneme
 ikinci gun MASTER BRANCH deneme
 ikinci gun KASIKCI BRANCH deneme
 ikinci gun EVREN BRANCH ilk deneme deneme/////////////////// ............
+ikinci gun son deneme
+master branch  yeni ekleme 
